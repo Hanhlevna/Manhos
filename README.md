@@ -13,8 +13,6 @@ Flowchart of present work.
 
 Data was collected from Booking and TripAdvisor, which will be updated on request from reviewers.
 
-**Annotated Data:**
+## Annotated Data
 
-[Google Drive](https://drive.google.com/drive/folders/1viuKkv-DkjvgbvUv-WGX2haLnkIqbRTB?usp=drive_link)
-
-</aside>
+will be updated on request from reviewers.
