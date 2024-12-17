@@ -13,6 +13,6 @@ Flowchart of present work.
 
 Data was collected from Booking and TripAdvisor, which will be updated on request from reviewers.
 
-## Annotated Data
+## Annotated data
 
 will be updated on request from reviewers.
