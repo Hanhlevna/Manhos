@@ -6,8 +6,9 @@ This study develops an efficient BERTopic-based topic modeling on 607,451 online
 
 ## Methodology
 Flowchart of present work.
+https://github.com/Hanhlevna/Manhos/issues/1#issue-2758437029
 
-![image](https://github.com/user-attachments/assets/37f02989-b17c-4edd-bc83-f13f5b8ba02e)
+#![image](https://github.com/user-attachments/assets/37f02989-b17c-4edd-bc83-f13f5b8ba02e)
 
 ## Dataset
 
