@@ -1,0 +1,6 @@
+selenium-wire == 5.1.0
+bs4 == 0.0.1
+tqdm == 4.65.0
+requests == 2.31.0
+numpy
+pandas
