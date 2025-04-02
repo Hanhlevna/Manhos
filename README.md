@@ -19,16 +19,10 @@ will be updated on request from reviewers.
 
 ## References
 
-```bibtex
-@article{le2025mining,
-  author  = {Hanh Thi My Le and Thuy-An Phan-Thi and Binh T. Nguyen and Thang Quyet Nguyen},
-  title   = {Mining online hotel reviews using big data and machine learning: An empirical study from an emerging country},
-  journal = {Annals of Tourism Research Empirical Insights},
-  volume  = {6},
-  number  = {1},
-  year    = {2025},
-  pages   = {100170},
-  issn    = {2666-9579},
-  doi     = {10.1016/j.annale.2025.100170},
-  url     = {https://www.sciencedirect.com/science/article/pii/S2666957925000059}
-}
+1. Hanh Thi My Le, Thuy-An Phan-Thi, Binh T. Nguyen, Thang Quyet Nguyen (2025).  
+   *Mining online hotel reviews using big data and machine learning: An empirical study from an emerging country*.  
+   Annals of Tourism Research Empirical Insights, 6(1), 100170.  
+   ISSN: 2666-9579.  
+   [DOI: 10.1016/j.annale.2025.100170](https://doi.org/10.1016/j.annale.2025.100170).  
+   [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S2666957925000059).
+
