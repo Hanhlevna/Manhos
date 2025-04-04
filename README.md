@@ -24,5 +24,5 @@ will be updated on request from reviewers.
    Annals of Tourism Research Empirical Insights, 6(1), 100170.  
    ISSN: 2666-9579.  
    [DOI: 10.1016/j.annale.2025.100170](https://doi.org/10.1016/j.annale.2025.100170).  
-   [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S2666957925000059).
+
 
