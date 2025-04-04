@@ -15,7 +15,7 @@ Data was collected from Booking and TripAdvisor, which will be updated on reques
 
 ## Annotated data
 
-will be updated on request from reviewers.
+Will be updated on request from reviewers.
 
 ## References
 
