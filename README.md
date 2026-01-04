@@ -6,7 +6,7 @@ This research project developed an efficient AI framework to analyze big data on
 
 ## Methodology
 Flowchart of the present work.
-##![image](Image/flowchart_methodoly.png)
+%![image](Image/flowchart_methodoly.png)
 ![image](Image/Analytical_framework_and_research_pipeline.png)
 
 ## Dataset
