@@ -6,7 +6,7 @@ This study developed an efficient BERTopic-based topic modeling on bigdata onlin
 
 ## Methodology
 Flowchart of present work.
-![image](Image/Analytical_framework_and_research_pipeline.jpg)
+![image](Image/flowchart_methodoly.png)
 ![image](Image/Analytical_framework_and_research_pipeline.jpg)
 
 ## Dataset
