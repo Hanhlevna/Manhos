@@ -5,8 +5,8 @@
 This research project developed an efficient AI framework to analyze big data online reviews. A dataset was collected from social online platforms, like Booking and TripAdvisor. Extension of the present work to other online platforms is straightforward. The BERTopic-based approach was to extract five novel aspects (facility, amenity, service, experience value and loyalty). To enhance construct validity, human-labeled sentiment analysis is combined. Econometric techniques connect aspect-based sentiment with individual ratings within the S-O-R framework. Loyalty-related intentions are strongly associated with higher ratings, which exhibits their mediating role between service delivery and brand equity.
 
 ## Methodology
-Flowchart of the present work.
-%![image](Image/flowchart_methodoly.png)
+
+General flowchart of the present work.
 ![image](Image/Analytical_framework_and_research_pipeline.png)
 
 ## Dataset
