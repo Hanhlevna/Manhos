@@ -11,12 +11,11 @@ General flowchart of the present work.
 
 ## Dataset
 
-Data was collected from Booking and TripAdvisor, which will be updated on request from reviewers.
+Data was collected from Booking and TripAdvisor.
 
 ## Annotated data
 
-Will be updated on request from reviewers.
-
+Updated.
 ## Reprints
 
 1. 	Le, H. T. M., Phan-Thi, T. A., Nguyen, B. T., & Nguyen, T. Q. (2025). Mining online hotel reviews using big data and machine learning: An empirical study from an emerging country. Annals of Tourism Research Empirical Insights, 6(1), 100170. https://doi.org/10.1016/j.annale.2025.100170.
